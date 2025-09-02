@@ -1,6 +1,6 @@
 # cuber-debug.github.io
 A small website created by a newbie, welcome to play!
-![我的博客链接](https://www.cnblogs.com/accuber/p/19069415)
+[我的博客链接](https://www.cnblogs.com/accuber/p/19069415)
 # 表单提交与数据存储系统
 
 一个初步的前后端一体化表单系统，支持用户信息收集、数据验证、MySQL数据库存储和结果反馈，结合内网穿透技术实现公网访问。
