@@ -30,7 +30,7 @@ A small website created by a newbie, welcome to play!
 
 ### 网页页面
 
-[网页页面](https://img2024.cnblogs.com/blog/3580909/202509/3580909-20250902092659374-993960482.png)
+[详见我的博客链接](https://www.cnblogs.com/accuber/p/19069415)
 
 ### MySQL页面
 
